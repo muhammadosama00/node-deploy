@@ -1,0 +1,74 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Blue Sneakers",
+      "description": "Comfortable sneakers with a stylish blue design.",
+      "price": 49.99,
+      "image": "https://example.com/blue-sneakers.jpg"
+    },
+    {
+      "id": 2,
+      "name": "White T-shirt",
+      "description": "Classic white cotton t-shirt for everyday wear.",
+      "price": 19.99,
+      "image": "https://example.com/white-tshirt.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Black Backpack",
+      "description": "Spacious backpack with multiple compartments.",
+      "price": 39.99,
+      "image": "https://example.com/black-backpack.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Red Hoodie",
+      "description": "Warm hoodie in bold red color, perfect for cooler weather.",
+      "price": 29.99,
+      "image": "https://example.com/red-hoodie.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Gray Joggers",
+      "description": "Comfortable joggers for casual outings or workouts.",
+      "price": 34.99,
+      "image": "https://example.com/gray-joggers.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Silver Watch",
+      "description": "Elegant silver wristwatch with a minimalist design.",
+      "price": 89.99,
+      "image": "https://example.com/silver-watch.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Smartphone Stand",
+      "description": "Adjustable smartphone stand for hands-free use.",
+      "price": 14.99,
+      "image": "https://example.com/smartphone-stand.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Wireless Earbuds",
+      "description": "High-quality wireless earbuds with noise cancellation.",
+      "price": 79.99,
+      "image": "https://example.com/wireless-earbuds.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Leather Wallet",
+      "description": "Genuine leather wallet with multiple card slots and a coin pocket.",
+      "price": 49.99,
+      "image": "https://example.com/leather-wallet.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Portable Charger",
+      "description": "Compact portable charger with fast charging capability.",
+      "price": 24.99,
+      "image": "https://example.com/portable-charger.jpg"
+    }
+  ]
+}
